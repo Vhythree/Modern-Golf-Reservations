@@ -1,0 +1,1 @@
+export '../pos_system_page.dart';
